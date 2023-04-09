@@ -27,7 +27,8 @@ Android studio를 사용하였다. Device Manager를 등록하여 가상 장치�
 
 실행결과이다.
 
-![image](https://user-images.githubusercontent.com/75656859/230781233-489c7e54-9c37-482c-b3cb-3052f14c9109.png)
+![image](https://user-images.githubusercontent.com/75656859/230781480-69b62ac6-88d6-4e1a-b907-2d1ccc4669bd.png)
+
 ![image](https://user-images.githubusercontent.com/75656859/230781245-db354d11-207e-4fac-add3-22a4656b3cca.png)
 
 정확하게 예측하고 있는 것을 볼 수 있다.

@@ -2,6 +2,7 @@
 opensource / Project to implement artificial intelligence model on Android phones
 
 지난번 '나의 손글씨로 숫자 인식하기 프로젝트' 와 연결하여 이번에는 안드로이드 폰에서 AI 모델로 손글씨를 써서 숫자를 얼마나 정확하게 인식하는지 해보았다.
+
 ** 지난번 프로젝트 링크 : https://github.com/leeseulhui/MyHandwriting
 
 Android studio를 사용하였다. Device Manager를 등록하여 가상 장치를 등록해주었다.

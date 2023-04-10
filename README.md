@@ -13,13 +13,13 @@ Android studio를 사용하였다. Device Manager를 등록하여 가상 장치�
 
 ![image](https://user-images.githubusercontent.com/75656859/230781033-003f829a-8b6d-4381-aa03-5b5aa9b9402f.png)
 
-여기서 나는 "Manifest merger failed" 라는 첫 번째 오류가 발생하였다.
-정확히는 
+여기서 나는 "Manifest merger failed" 라는 오류가 발생하였다.
+
 ![image](https://user-images.githubusercontent.com/75656859/230781129-70cb79c4-39e0-4f4f-8b02-572a47dbd02d.png)
 
-이런 오류이다.
-오류가 나서 해결책을 찾아보니 Android 12를 타겟팅하는 경우 AndroidManifest.xml 파일에서 adroid:exported를 true로 설정해주어야 한다고 한다. 
-따라서 추가해주었다.
+정확히 오류는 이러했다.
+
+오류가 나서 해결책을 찾아보니 Android 12를 타겟팅하는 경우 AndroidManifest.xml 파일에서 adroid:exported를 true로 설정해주어야 한다고 하여 추가해준 뒤 재실행해보았다. 
 
 ![image](https://user-images.githubusercontent.com/75656859/230781205-0e334420-76ca-4af5-a890-64bb6eec1a32.png)
 
